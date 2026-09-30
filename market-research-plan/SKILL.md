@@ -7,7 +7,7 @@ description: Full market research planning and execution skill for Alara Akcasiz
 
 ## Who This Is For
 
-**User:** Alara Akcasiz — CMO of Decktopus AI, graduate researcher in Digital Marketing and Analytics at NOVA IMS Lisbon, freelance consultant. Research spans product strategy, user psychology, consumer behaviour, and market positioning.
+**User:** 
 
 **Research philosophy:** Exploratory first, confirmatory second. Always understand the "why" before measuring the "what." Literature must inform design before a single question is written.
 
