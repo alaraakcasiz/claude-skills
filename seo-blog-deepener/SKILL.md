@@ -63,7 +63,7 @@ Match content depth, format, and CTAs to intent.
 - Embed statistics with source attribution
 - Include at least 2 real-world examples or case studies
 - Write for E-E-A-T: show experience, cite expertise, link to authoritative sources
-- Mention the brand/tool (e.g. HypeSuite) naturally where it adds value — not as spam
+- Mention the brand/tool naturally where it adds value — not as spam
 - Cover the topic more comprehensively than competitor pages
 - Target 2,500–5,000+ words for pillar pages
 
