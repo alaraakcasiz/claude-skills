@@ -14,6 +14,7 @@ Each skill is a structured prompt + reference bundle that turns Claude into a do
 | **[linkedin-post](./linkedin-post/)** | LinkedIn post writing system with hook patterns, formatting rules, and performance-tested constraints. Built from 30-day posting challenge data. |
 | **[seo-blog-deepener](./seo-blog-deepener/)** | Deep optimization of existing blog posts for search — keyword enrichment, internal linking, schema markup, meta optimization. |
 | **[reddit-date-fetcher](./reddit-date-fetcher/)** | Fetch real Reddit post/comment dates via Arctic Shift archive API. Bypasses Reddit's 403 anti-bot wall entirely. |
+| **[video](./video/)** | The third-party video skills I use (HyperFrames by HeyGen, video-use by Browser Use, Remotion), collected with their sources and original licenses. Not written by me. |
 
 ## How to use
 
@@ -27,4 +28,5 @@ Built by [Alara Akcasiz](https://www.linkedin.com/in/alaraakcasiz/) — CMO at D
 
 ## License
 
-MIT
+MIT, except the [`video/`](./video/) folder: those are third-party skills that keep their own
+licenses (see [`video/README.md`](./video/README.md)).
