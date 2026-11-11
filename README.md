@@ -13,6 +13,7 @@ Each skill is a structured prompt + reference bundle that turns Claude into a do
 | **[market-research-plan](./market-research-plan/)** | Design and plan qualitative, quantitative, or mixed-methods research studies. Interview guides, survey design, thematic analysis frameworks. |
 | **[linkedin-post](./linkedin-post/)** | LinkedIn post writing system with hook patterns, formatting rules, and performance-tested constraints. Built from 30-day posting challenge data. |
 | **[seo-blog-deepener](./seo-blog-deepener/)** | Deep optimization of existing blog posts for search — keyword enrichment, internal linking, schema markup, meta optimization. |
+| **[hook-repurposing](./hook-repurposing/)** | Adapt short-form video hooks that already performed for another product into hooks native to your product and UGC persona — minimal-edit rule, truth-checks, native captions, Sheets-ready output. |
 | **[reddit-date-fetcher](./reddit-date-fetcher/)** | Fetch real Reddit post/comment dates via Arctic Shift archive API. Bypasses Reddit's 403 anti-bot wall entirely. |
 | **[video](./video/)** | The third-party video skills I use (HyperFrames by HeyGen, video-use by Browser Use, Remotion), collected with their sources and original licenses. Not written by me. |
 
